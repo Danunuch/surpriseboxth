@@ -95,7 +95,7 @@ $row_slide_img = $stmt_slide_img->fetchAll();
         </div>
 
     </section>
-
+ื
 
     <section id="app-section">
 
